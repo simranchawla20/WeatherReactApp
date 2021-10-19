@@ -5,9 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image:url("https://images.pexels.com/photos/2028885/pexels-photo-2028885.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500;") 
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.flex{
+  display: flex;
+}
+.font{
+  font-size: 40px;
+}
+.bg-dark{
+  background: linear-gradient(45deg,black,red);
 }
